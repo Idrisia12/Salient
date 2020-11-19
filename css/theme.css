@@ -625,7 +625,7 @@ License URI:
     text-transform: uppercase;
 }
 .singlefolio .folioHover h4 a{
-    color: #fff;    
+    color: #fff;
     transition: all ease 400ms;
     -webkit-transition: all ease 400ms;
     -moz-transition: all ease 400ms;
@@ -1043,7 +1043,7 @@ License URI:
     overflow: hidden;
     background: #fff;
     border: none;
-    padding: 40px 15px 46px 50px;
+    padding: 40px 0px 46px 50px;
     width: 100%;
     transition: all ease 500ms;
     -moz-transition: all ease 500ms;
@@ -1092,7 +1092,7 @@ License URI:
 / 11. Testimonail Section
 ------------------------------------------------------*/
 .testimonial{
-    background: url(../images/bg/3.jpg) no-repeat fixed center / cover;
+    background: url(../images/bg/Abolaji.jpg) no-repeat fixed center / cover;
     padding-bottom: 113px;
 }
 .testimonial_content{
@@ -1224,7 +1224,7 @@ License URI:
 / 13. Ready Section
 ------------------------------------------------------*/
 .ready{
-    background: url(../images/bg/4.jpg) no-repeat center center / cover;
+    background: url(../images/slider/maxresdefault.jpg) no-repeat center center / cover;
 }
 .ready .sec_title{
     margin: 0;
@@ -1502,7 +1502,7 @@ License URI:
 / 17. Tesimonial 02 Section
 ------------------------------------------------------*/
 .testimonial_2{
-    background: url(../images/bg/7.jpg) no-repeat center center / cover;
+    background: url(../images/bg/2.jpg) no-repeat center center / cover;
 }
 .testimoniTab{
     position: relative;
@@ -1804,7 +1804,7 @@ License URI:
 .pageBanner {
     position: relative;
     min-height: 465px;
-    background: url(../images/bg/8.jpg) no-repeat center center / cover;
+    background: url(../images/bg/nice.jpg) no-repeat center center / cover;
     padding-top: 224px;
 }
 .banner_content{
@@ -2177,7 +2177,7 @@ License URI:
 /*----------------------------------------------------
 / 24. Blog Page
 ------------------------------------------------------*/
-.meipaly_paginations a, 
+.meipaly_paginations a,
 .meipaly_paginations span {
     position: relative;
     display: inline-block;
@@ -2200,7 +2200,7 @@ License URI:
     padding: 12px 0;
     margin: 0 2px;
 }
-.meipaly_paginations a:after, 
+.meipaly_paginations a:after,
 .meipaly_paginations span:after{
     width: 4px;
     height: 0;
@@ -2220,13 +2220,13 @@ License URI:
     right: auto;
     left: 0;
 }
-.meipaly_paginations a:hover:after, 
+.meipaly_paginations a:hover:after,
 .meipaly_paginations span.current:after{
     height: 100%;
     visibility: visible;
     opacity: 1;
 }
-.meipaly_paginations a:hover, 
+.meipaly_paginations a:hover,
 .meipaly_paginations span.current{
     color: #fff;
     background: #000;
@@ -3098,14 +3098,14 @@ textarea.input-form:focus{
     transform: translateY(0px);
 }
 .dl-menu__wrap .dl-menu.dl-subview li,
-.dl-menu__wrap .dl-menu.dl-subview li.dl-subviewopen > a, 
+.dl-menu__wrap .dl-menu.dl-subview li.dl-subviewopen > a,
 .dl-menu__wrap .dl-menu.dl-subview li.dl-subview > a {
     display: none;
 }
-.dl-menu__wrap .dl-menu.dl-subview li.dl-subview, 
-.dl-menu__wrap .dl-menu.dl-subview li.dl-subview .dl-submenu, 
-.dl-menu__wrap .dl-menu.dl-subview li.dl-subviewopen, 
-.dl-menu__wrap .dl-menu.dl-subview li.dl-subviewopen > 
+.dl-menu__wrap .dl-menu.dl-subview li.dl-subview,
+.dl-menu__wrap .dl-menu.dl-subview li.dl-subview .dl-submenu,
+.dl-menu__wrap .dl-menu.dl-subview li.dl-subviewopen,
+.dl-menu__wrap .dl-menu.dl-subview li.dl-subviewopen >
 .dl-submenu, .dl-menu__wrap .dl-menu.dl-subview li.dl-subviewopen > .dl-submenu > li {
     display: block;
 }

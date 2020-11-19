@@ -6,8 +6,8 @@ $email = $_POST['email'];
 $phone = $_POST['phone'];
 $msg = $_POST['message'];
 
-$to = 'layerdrops@gmail.com';
-$subject = 'Meipaly User Query';
+$to = 'abdulrash6211@gmail.com';
+$subject = 'Salientsky User Query';
 
 $message = '<strong>Name : </strong>'.$f_name.' '. $l_name .'<br/><br/>';
 $message .= '<strong>Email : </strong>'.$email.'<br/><br/>';
